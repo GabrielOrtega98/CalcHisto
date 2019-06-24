@@ -1,2 +1,2 @@
-# CalcHisto
+# Calculadora_com_Historico
 Aula_9_calculadora_com_historico
